@@ -1,0 +1,8 @@
+/*
+ * Gradle settings for inf1b GettingStarted example
+ *
+ * Adapted from the IPPO course by Paul Anderson
+ * https://groups.inf.ed.ac.uk/ippo/2019/website/html/home.html
+ */
+
+rootProject.name = 'inf1b-gettingstarted'
