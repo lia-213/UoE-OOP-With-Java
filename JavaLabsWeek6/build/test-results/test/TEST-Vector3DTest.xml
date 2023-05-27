@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Vector3DTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-05-27T11:47:47" hostname="LOPK" time="0.028">
+  <properties/>
+  <testcase name="testGetTheta()" classname="Vector3DTest" time="0.02"/>
+  <testcase name="testAdd()" classname="Vector3DTest" time="0.001"/>
+  <testcase name="testSubtract()" classname="Vector3DTest" time="0.001"/>
+  <testcase name="testScale()" classname="Vector3DTest" time="0.001"/>
+  <testcase name="testGetR()" classname="Vector3DTest" time="0.001"/>
+  <testcase name="testGetPhi()" classname="Vector3DTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
